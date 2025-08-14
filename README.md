@@ -1,3 +1,5 @@
+![cover](./assets/banner_1280x640.png)
+
 <h1 align="center">Hi, I'm Ganga Lakshmi 👋</h1>
 
 <p align="center">
