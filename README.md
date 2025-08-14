@@ -24,7 +24,7 @@
 ---
 
 ### 👋 About Me
-- 💻 I’m a **Backend Developer** passionate about building functional, aesthetic, and scalable systems.
+- 💻 Passionate about crafting efficient, user-friendly solutions and continuously expanding my expertise in modern technologies.
 - 🎓 Currently pursuing **Post Graduation** in Computer Applications.
 - 🌱 Learning **Power BI**, **Flask**, and **Data Visualization**.
 - 🏆 Completed 3 internships — check out my repos for project details!
@@ -62,16 +62,6 @@
 ---
 
 
----
-
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
 
 
 
@@ -82,13 +72,6 @@
 
 ---
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganga-zeha&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganga-zeha&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
 
 
 ### 📌 Featured Projects
