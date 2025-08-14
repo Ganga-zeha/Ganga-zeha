@@ -1,4 +1,4 @@
-![Profile Banner](b_1280x640.png.jpg)
+![Profile Banner](cat_banner_1280x640.png)
 
 
 <h1 align="center">Hi, I'm Ganga Lakshmi 👋</h1>
