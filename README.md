@@ -1,6 +1,15 @@
 
 <p align="center">
   <img src="Heehee...,Hello people!!!.png" width="100%" alt="Cat Banner">
+
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F76C6C&center=true&vCenter=true&width=500&lines=Hey+there!+👋;Welcome+to+my+GitHub+Profile!;Exploring+Code+%26+Creativity">
+</p>
+
+
+
+  
 <!-- Heading Text -->
 <h2 align="center">Let's Connect & Have a Chat 💬</h2>
 
@@ -19,6 +28,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
+
 
 
 ---
@@ -72,6 +82,22 @@
 
 ---
 
+<!-- Contribution Graph -->
+## 🔥 Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganga-zeha&bg_color=0d1117&color=ffffff&line=f76c6c&point=f76c6c&area=true&hide_border=true" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ganga-zeha&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
+</p>
+
+
+<!-- Random Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 
 ### 📌 Featured Projects
@@ -96,3 +122,10 @@
 ### 🤝 Connect
 <a href="mailto:gangaa.0297@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-blue"></a>
 <a href="https://www.linkedin.com/in/gangaa97"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-informational"></a>
+
+<!-- Footer -->
+<p align="center">
+  Let’s build something amazing together! 🚀
+</p>
+
+
