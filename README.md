@@ -1,75 +1,29 @@
-<h1 align="center">Hi, I'm Ganga 👋</h1>
-<p align="center">
-  <b>MCA (AI & ML) @ Jain University</b> • AI/ML | Data Analytics | Cybersecurity • Research: AI for Criminology
-</p>
+<h1 align="center">Hi, I'm Ganga Lakshmi 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gangaa97">
-    <img src="https://img.shields.io/badge/LinkedIn-gangaa97-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:gangaa.0297@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gangaa.0297%40gmail.com-red?logo=gmail" />
-  </a>
-  <a href="https://github.com/Ganga-zeha">
-    <img src="https://img.shields.io/badge/GitHub-Ganga--zeha-black?logo=github" />
-  </a>
+  <a href="https://www.linkedin.com/in/gangaa97">LinkedIn</a> •
+  <a href="mailto:gangaa.0297@gmail.com">Email</a> •
+  <a href="https://github.com/Ganga-zeha?tab=repositories">Repositories</a>
 </p>
 
 ---
 
-### 🚀 About me
-- AI/ML intern & researcher building **real-world intelligent systems** (medical chatbot, crime pattern mining).
-- Comfortable with **Python, SQL, TensorFlow, scikit-learn, Pandas, Power BI**.
-- Presented paper: **Crime Pattern Mining using AI** (ICAISM 2025 – Springer).
-- Recent wins: **IBM – Databases & SQL for Data Science** ✅, **Power BI Internship (CODTECH)** ✅
+### 💼 Internships
+- **Cybersecurity Intern — SkillCraft Technology**
+  - Built Caesar Cipher tool, image encryption, password strength checker.
+- **Power BI Intern — CODTECH IT Solutions**
+  - Created interactive dashboards, KPIs, integrated Python scripts.
+
+### 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi)
+![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode)
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Ganga-zeha&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganga-zeha&layout=compact)
+![Streak](https://streak-stats.demolab.com/?user=Ganga-zeha)
 
 ---
-
-### 🧠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-<a href="https://github.com/Ganga-zeha/powerbi-sales-dashboard-codtech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganga-zeha&repo=powerbi-sales-dashboard-codtech" />
-</a>
-<a href="https://github.com/Ganga-zeha/cybersecurity-tools-skillcraft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganga-zeha&repo=cybersecurity-tools-skillcraft" />
-</a>
-
-
-> If repo names differ, just change the `repo=` part after you create/rename them.
-
----
-
-### 📊 GitHub Snapshot
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganga-zeha&show_icons=true&hide_rank=false" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganga-zeha&layout=compact" />
-</p>
-
----
-
-### 📝 Recent Certifications
-- IBM: **Databases & SQL for Data Science** (Coursera)
-- Power BI Internship (CODTECH, Jun–Jul 2025)
-- ML with Python (IBM)
-- Java Fundamentals (Board Infinity)
-
----
-
-### 🤝 Let’s connect
-Open to **internships / research collaborations** in AI, ML, cybersecurity, and data analytics.
