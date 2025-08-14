@@ -43,12 +43,11 @@
 ---
 
 ### 📌 Featured Projects
-*(Pin these repos on your profile so they appear here)*  
-- [SkillCraft — Cybersecurity Internship](https://github.com/Ganga-zeha/skillcraft-cybersecurity)  
-- [CODTECH — Power BI Internship](https://github.com/Ganga-zeha/codtech-powerbi)  
-- [Cassava Leaf Disease Detection (DL)](https://github.com/Ganga-zeha/cassava-leaf-disease-detection)  
-- [Flight Price Prediction (ML)](https://github.com/Ganga-zeha/flight-price-prediction)  
-- [Python Client–Server Chat App](https://github.com/Ganga-zeha/python-chat-app)  
+
+- [SkillCraft — Cybersecurity Internship](https://github.com/Ganga-zeha/Skillcraft-CyberSecurity)  
+- [CODTECH — Power BI Internship](https://github.com/Ganga-zeha/Power-BI-Internship)   
+- [Flight Price Prediction (ML)](https://github.com/Ganga-zeha/Flight-price-prediction)  
+- [Python Client–Server Chat App](https://github.com/Ganga-zeha/Python-Chat-App)  
 
 ---
 
