@@ -23,11 +23,7 @@
 
 <h1 align="center">Let's Connect & Have a Chat 💬</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gangaa97">LinkedIn</a> •
-  <a href="mailto:gangaa.0297@gmail.com">Email</a> •
-  <a href="https://github.com/Ganga-zeha?tab=repositories">Repositories</a>
-</p>
+
 
 ---
 
