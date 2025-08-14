@@ -21,7 +21,7 @@
 
 
 
-<h1 align="center">Hehe...,hello people 👋</h1>
+<h1 align="center">Let's Connect & Have a Chat 💬</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gangaa97">LinkedIn</a> •
