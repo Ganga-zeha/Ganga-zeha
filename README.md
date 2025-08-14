@@ -9,8 +9,12 @@
 ---
 
 ### 💼 Internships
+- **Project Intern - Coligobrains Technology Solutions**
+   • Collaborating in a team of 3 to develop a medical chatbot application. 
+   • Integrating AI-driven medical Q&A and symptom-based response system. 
+   • Utilizing Python, NLP, and API integration for chatbot functionalities.
 - **Cybersecurity Intern — SkillCraft Technology**
-  - Built Caesar Cipher tool, image encryption, password strength checker.
+  - Built Caesar Cipher tool, image encryption, password strength checker, key logger.
 - **Power BI Intern — CODTECH IT Solutions**
   - Created interactive dashboards, KPIs, integrated Python scripts.
 
