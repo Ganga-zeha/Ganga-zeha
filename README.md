@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F76C6C&center=true&vCenter=true&width=500&lines=Hey+there!+👋;Welcome+to+my+GitHub+Profile!;Exploring+Code+%26+Creativity">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-user/gif-divider.gif" width="80%" />
-</p>
-
 
 
   
