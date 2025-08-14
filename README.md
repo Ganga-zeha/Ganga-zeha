@@ -1,7 +1,7 @@
 ![Profile Banner](cat_banner_1280x640.png)
 
 
-<h1 align="center">Hi, I'm Ganga Lakshmi 👋</h1>
+<h1 align="center">Hehe...,hello people 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gangaa97">LinkedIn</a> •
