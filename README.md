@@ -73,33 +73,6 @@
 
 
 
-
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ganga-zeha&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganga-zeha&layout=compact)
-![Streak](https://streak-stats.demolab.com/?user=Ganga-zeha)
-
----
-
-<!-- Contribution Graph -->
-## 🔥 Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganga-zeha&bg_color=0d1117&color=ffffff&line=f76c6c&point=f76c6c&area=true&hide_border=true" />
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ganga-zeha&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
-</p>
-
-
-<!-- Random Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-
 ### 📌 Featured Projects
 
 - [SkillCraft — Cybersecurity Internship](https://github.com/Ganga-zeha/Skillcraft-CyberSecurity)  
@@ -118,6 +91,33 @@
   - Ethical Hacking Basics
 
 ---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Ganga-zeha&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganga-zeha&layout=compact)
+![Streak](https://streak-stats.demolab.com/?user=Ganga-zeha)
+
+---
+
+<!-- Contribution Graph -->
+## 🔥 Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganga-zeha&bg_color=0d1117&color=ffffff&line=f76c6c&point=f76c6c&area=true&hide_border=true" />
+</p>
+
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ganga-zeha&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
+</p>
+
+
+<!-- Random Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+
 
 ### 🤝 Connect
 <a href="mailto:gangaa.0297@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-blue"></a>
