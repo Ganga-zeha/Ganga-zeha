@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Heehee...,Hello people!!!" width="100%" alt="Cat Banner">
+  <img src="Heehee...,Hello people!!!.png" width="100%" alt="Cat Banner">
 </p>
 <p align="center">
   <a href="https://github.com/Ganga-zeha">
