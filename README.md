@@ -40,18 +40,14 @@
 ---
 
 ### 🌟 Featured Projects
-<a href="https://github.com/Ganga-zeha/MediCopilot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganga-zeha&repo=MediCopilot" />
+
+<a href="https://github.com/Ganga-zeha/powerbi-sales-dashboard-codtech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganga-zeha&repo=powerbi-sales-dashboard-codtech" />
 </a>
-<a href="https://github.com/Ganga-zeha/cassava-leaf-disease-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganga-zeha&repo=cassava-leaf-disease-detection" />
+<a href="https://github.com/Ganga-zeha/cybersecurity-tools-skillcraft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganga-zeha&repo=cybersecurity-tools-skillcraft" />
 </a>
-<a href="https://github.com/Ganga-zeha/flight-price-prediction-ml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganga-zeha&repo=flight-price-prediction-ml" />
-</a>
-<a href="https://github.com/Ganga-zeha/python-tkinter-chatapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganga-zeha&repo=python-tkinter-chatapp" />
-</a>
+
 
 > If repo names differ, just change the `repo=` part after you create/rename them.
 
