@@ -66,7 +66,8 @@
 ### 📝 Recent Certifications
 - IBM: **Databases & SQL for Data Science** (Coursera)
 - Power BI Internship (CODTECH, Jun–Jul 2025)
-- ML with Python (IBM), Java Fundamentals (Board Infinity)
+- ML with Python (IBM)
+- Java Fundamentals (Board Infinity)
 
 ---
 
