@@ -18,7 +18,7 @@
   <a href="https://github.com/Ganga-zeha">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" alt="GitHub" style="filter: invert(1);"/>
   </a>
-  <a href="https://www.linkedin.com/in/gangaa97">
+  <a href="https://www.linkedin.com/in/gangags>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:gangaa.0297@gmail.com">
