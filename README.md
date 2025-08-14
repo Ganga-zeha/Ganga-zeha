@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ganga 👋</h1>
+<h1 align="center">Hi, I'm Ganga Lakshmi 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gangaa97">LinkedIn</a> •
@@ -18,12 +18,22 @@
 - **Power BI Intern — CODTECH IT Solutions**
   - Created interactive dashboards, KPIs, integrated Python scripts.
 
+---
+
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi)
-![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+
+---
 
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ganga-zeha&show_icons=true&theme=default)
@@ -31,3 +41,27 @@
 ![Streak](https://streak-stats.demolab.com/?user=Ganga-zeha)
 
 ---
+
+### 📌 Featured Projects
+*(Pin these repos on your profile so they appear here)*  
+- [SkillCraft — Cybersecurity Internship](https://github.com/Ganga-zeha/skillcraft-cybersecurity)  
+- [CODTECH — Power BI Internship](https://github.com/Ganga-zeha/codtech-powerbi)  
+- [Cassava Leaf Disease Detection (DL)](https://github.com/Ganga-zeha/cassava-leaf-disease-detection)  
+- [Flight Price Prediction (ML)](https://github.com/Ganga-zeha/flight-price-prediction)  
+- [Python Client–Server Chat App](https://github.com/Ganga-zeha/python-chat-app)  
+
+---
+
+### 🏆 Achievements & Research
+- **Research Paper:** *Crime Pattern Mining using AI* — ICAISM 2025 (Springer Publication)
+- **Certifications:**
+  - IBM Machine Learning with Python
+  - IBM SQL for Data Science (Honors)
+  - Java Fundamentals
+  - Ethical Hacking Basics
+
+---
+
+### 🤝 Connect
+<a href="mailto:gangaa.0297@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-blue"></a>
+<a href="https://www.linkedin.com/in/gangaa97"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-informational"></a>
