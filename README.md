@@ -1,7 +1,10 @@
 
 <p align="center">
   <img src="Heehee...,Hello people!!!.png" width="100%" alt="Cat Banner">
-</p>
+<!-- Heading Text -->
+<h2 align="center">Let's Connect & Have a Chat 💬</h2>
+
+<!-- Social Icons -->
 <p align="center">
   <a href="https://github.com/Ganga-zeha">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" alt="GitHub" style="filter: invert(1);"/>
@@ -16,12 +19,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
-
-
-
-
-
-<h1 align="center">Let's Connect & Have a Chat 💬</h1>
 
 
 
