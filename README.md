@@ -2,11 +2,20 @@
 <p align="center">
   <img src="cat_banner_1280x640.png" width="100%" alt="Cat Banner">
 </p>
+<!-- Social icons -->
 <p align="center">
-  <a href="https://github.com/Ganga-zeha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/gangaa97"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:gangaa.0297@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.instagram.com/_gangaa.02_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="https://github.com/Ganga-zeha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/gangaa97">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:gangaa.0297@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/_gangaa.02_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
 </p>
 
 
