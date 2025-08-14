@@ -2,22 +2,21 @@
 <p align="center">
   <img src="cat_banner_1280x640.png" width="100%" alt="Cat Banner">
 </p>
-<!-- Social icons -->
+<!-- Social Icons -->
 <p align="center">
   <a href="https://github.com/Ganga-zeha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/gangaa97">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:gangaa.0297@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" height="40" alt="Email"/>
   </a>
   <a href="https://www.instagram.com/_gangaa.02_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
-
 
 
 
